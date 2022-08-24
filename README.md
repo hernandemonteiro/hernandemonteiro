@@ -1,7 +1,8 @@
 ## Hi there, my name is Hernande Monteiro  👋
 ##### I'm a full-stack developer in JS
+<br><br>
+my github is new so it doesn't have as many projects 🤷‍♂️
 <br>
-
 <div>
   <img width= "45%" src="https://github-readme-stats.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
