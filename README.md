@@ -10,20 +10,18 @@ my github is new so it doesn't have as many projects 🤷‍♂️
 </div>
 <br><br>
 💬 Talk to me about:<br><br>
-1 - Javascript<br>
-2 - Typescript<br>
-3 - React / Next.js<br>
-4 - Docker<br>
-5 - Node<br>
-6 - MongoDb<br>
-7 - MySql
+1 - Javascript/Typescript<br>
+2 - React / Next.js<br>
+3 - Docker<br>
+4 - Node<br>
+5 - MongoDb/MySql<br>
+6 - React Native
 <br><br>
 🌱 I’m currently learning:<br><br>
-1 - Rabbit Mq<br>
-2 - Apache Kafka<br>
-3 - GraphQl<br>
-4 - AWS/GCP<br>
-5 - Kubernetes
+1 - Messaging<br>
+2 - GraphQl<br>
+3 - AWS/GCP<br>
+4 - Kubernetes
 <br><br>
 📫 monteiro1998@live.com
 <br><br>
