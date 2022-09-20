@@ -25,6 +25,7 @@
 <br><br>
 ## I’m currently learning:
 ![English](https://img.shields.io/badge/English-6DA55F?style=for-the-badge&logoColor=purple)
+<br>
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -35,7 +36,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/monteiro.ops)
 [![Personal Blog](https://img.shields.io/badge/My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hernandemonteiro.vercel.app)
 
-## Github Satus:
+## Github Status:
 
 <div>
   <img width= "45%" src="https://github-readme-stats.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
