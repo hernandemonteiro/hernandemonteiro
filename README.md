@@ -31,6 +31,7 @@
 <br><br>
 
 ## Follow me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernande-monteiro-bezerra-5a778b95/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/monteiro.ops)
 [![Personal Blog](https://img.shields.io/badge/My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hernandemonteiro.vercel.app)
 
