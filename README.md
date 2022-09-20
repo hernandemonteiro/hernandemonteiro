@@ -1,5 +1,4 @@
-## Hi there, my name is Hernande Monteiro  👋
-### Code is the science that unites thought and innovation...
+# Code is the science that unites thought and innovation...  👋
 ## Talk to me about:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
