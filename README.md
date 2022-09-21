@@ -35,7 +35,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/monteiro.ops)
 [![Personal Blog](https://img.shields.io/badge/My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hernandemonteiro.vercel.app)
 
-## Github Status:
+## Github Stats:
 
 <div>
   <img width= "45%" src="https://github-readme-stats.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
