@@ -1,5 +1,11 @@
 # Code is the science that unites thought and innovation...  👋
 
+<hr>
+<p align="center">
+  <img width="30%" src="./Avatar-Maker.svg"/>
+</p>
+<hr>
+
 ## Talk to me about:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -75,8 +81,4 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandemonteiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<hr>
 
-<p align="center">
-  <img width="30%" src="./Avatar-Maker.svg"/>
-</p>
