@@ -58,6 +58,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernande-monteiro-bezerra-5a778b95/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/monteiro.ops)
 [![Personal Blog](https://img.shields.io/badge/My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hernandemonteiro.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/monteiro_ops)
   
 <br/>
 <h1 align="center">Github Stats</h1>
