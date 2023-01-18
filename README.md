@@ -73,9 +73,11 @@
 <br/>
 
 <div>
-  <img width= "45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hernandemonteiro&layout=compact&langs_count=7&theme=dark"/>
+  <p align="center">
+  <img width= "60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<br/>
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hernandemonteiro&theme=react&line_height=40&hide=css&show_icons=true"/>
+  </p>
 </div>
 </div>
 
