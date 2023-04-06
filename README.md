@@ -4,7 +4,7 @@
 </p>
 <br/><br/>
 
-<h1 align="center">Talk to me about</h2>
+<!-- <h1 align="center">Talk to me about</h2>
 
 <div align="center">
  <br/>
@@ -58,11 +58,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
-<br/>
+<br/> -->
 <div align="center">
   
-<h1 align="center">Follow me</h1>
-<br/>
+<!-- <h1 align="center">Follow me</h1>
+<br/> -->
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernande-monteiro-bezerra-5a778b95/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/monteiro.ops)
@@ -74,11 +74,9 @@
 <br/>
 
 <div>
-  <p align="center">
-  <img width= "60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width= "40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <br/>
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hernandemonteiro&theme=react&line_height=40&hide=css&show_icons=true"/>
-  </p>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hernandemonteiro&theme=react&line_height=40&hide=css&show_icons=true"/>
 </div>
 </div>
 
