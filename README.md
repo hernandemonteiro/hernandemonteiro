@@ -15,8 +15,8 @@
 <br/>
 
 <div>
-  <img width= "50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="20.8%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hernandemonteiro&theme=react&line_height=40&hide=css&show_icons=true"/>
+<!--   <img width= "50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hernandemonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hernandemonteiro&theme=react&line_height=40&hide=css&show_icons=true"/>
 </div>
 </div>
 
