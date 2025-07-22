@@ -20,7 +20,7 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 - **Web:** React, Next.js, Tailwind, Express, Inversify, REST/GraphQL, Flask, Spring
 - **Data:** Pandas, NumPy, SciKit-Learn, PostgreSQL, MongoDB, MySQL, Redis, Jenkins
 - **Infra:** Docker, Linux, GitHub Actions, Vercel, Bash/Shell
-- **Ferramentas:** VSCode, Figma, Postman
+- **Ferramentas:** VSCode, Figma, Postman, Git
 
 ---
 
