@@ -31,5 +31,10 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 
 ---
 
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1604a14f-c1f8-4feb-8a0d-6deca101855e" />
+
+
+---
+
 > 🧠 *"Não quero ser substituível. Quero construir o que nem a IA consegue prever."*
 
