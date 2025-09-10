@@ -16,11 +16,11 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 
 ### ⚙️ Tecnologias principais
 
-- **Linguagens:** JavaScript / TypeScript, Python, Java, C++, Rust (em progresso)
+- **Linguagens:** JavaScript / TypeScript, Python, Java, C++
 - **Web:** React, Next.js, Tailwind, Express, Inversify, REST/GraphQL, Flask, Spring
-- **Data:** Pandas, NumPy, SciKit-Learn, PostgreSQL, MongoDB, MySQL, Redis, Jenkins
+- **Data:** Pandas, NumPy, SciKit-Learn, Keras, Tensorflow, PostgreSQL, MongoDB, MySQL, Redis
 - **Infra:** Docker, Linux, GitHub Actions, Vercel, Bash/Shell
-- **Ferramentas:** VSCode, Figma, Postman, Git
+- **Ferramentas:** VSCode, Figma, Postman, Git, Jenkins
 
 ---
 
@@ -36,5 +36,5 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 
 ---
 
-> 🧠 *"Não quero ser substituível. Quero construir o que nem a IA consegue prever."*
+> 🧠 *"Procurando não ser substituível."*
 
