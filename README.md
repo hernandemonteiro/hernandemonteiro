@@ -1,9 +1,5 @@
 <h1 align="center">Code is the science that unites thought and innovation ⚙️🚀</h1>
 
-<p align="center">
-  <img src="./Avatar-Maker.svg" width="200px" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
@@ -22,5 +18,6 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 - **Infra:** Docker, Linux, GitHub Actions, Vercel, Bash/Shell
 - **Ferramentas:** VSCode, Figma, Postman, Git, Jenkins
 
+---
 
 
