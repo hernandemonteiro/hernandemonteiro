@@ -17,7 +17,7 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 ### ⚙️ Tecnologias principais
 
 - **Linguagens:** JavaScript / TypeScript, Python, Java, C++
-- **Web:** React, Next.js, Tailwind, Express, Inversify, REST/GraphQL, Flask, Spring
+- **Web:** React, Next.js, Tailwind, Express, Inversify, Angular, REST/GraphQL, Flask, Spring
 - **Data:** Pandas, NumPy, SciKit-Learn, Keras, Tensorflow, PostgreSQL, MongoDB, MySQL, Redis
 - **Infra:** Docker, Linux, GitHub Actions, Vercel, Bash/Shell
 - **Ferramentas:** VSCode, Figma, Postman, Git, Jenkins
@@ -29,12 +29,5 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hernande-monteiro/)
 [![GitHub](https://img.shields.io/github/followers/hernandemonteiro?label=Follow&style=social)](https://github.com/hernandemonteiro)
 
----
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1604a14f-c1f8-4feb-8a0d-6deca101855e" />
-
-
----
-
-> 🧠 *"Procurando não ser substituível."*
 
