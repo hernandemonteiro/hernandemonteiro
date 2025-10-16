@@ -22,12 +22,5 @@ Meu objetivo é ir além do CRUD e me tornar especialista em **engenharia de dad
 - **Infra:** Docker, Linux, GitHub Actions, Vercel, Bash/Shell
 - **Ferramentas:** VSCode, Figma, Postman, Git, Jenkins
 
----
-
-### 🌐 Redes e Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hernande-monteiro/)
-[![GitHub](https://img.shields.io/github/followers/hernandemonteiro?label=Follow&style=social)](https://github.com/hernandemonteiro)
-
 
 
